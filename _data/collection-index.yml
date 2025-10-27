@@ -1093,6 +1093,11 @@
   repository: https://github.com/schnellerhase/devcontainer-fenics
   ociReference: ghcr.io/schnellerhase/devcontainer-fenics/fenics
   ociReference: ghcr.io/ryanlua/templates/roblox
+- name: W&B Catnip
+  maintainer: Weights and Biases
+  contact: https://github.com/wandb/catnip/issues
+  repository: https://github.com/wandb/catnip
+  ociReference: ghcr.io/wandb/catnip/feature
 - name: AcademicDocker template (R, Stata, LaTeX)
   maintainer: Romain Ferrali
   contact: https://github.com/rferrali/devcontainer-templates/issues
