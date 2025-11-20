@@ -918,6 +918,11 @@
   contact: https://github.com/lx-0/devcontainer-templates/issues
   repository: https://github.com/lx-0/devcontainer-templates
   ociReference: ghcr.io/lx-0/devcontainer-templates
+- name: AIT-Assistive-Autonomous-Systems Dev Container Features
+  maintainer: AIT-Assistive-Autonomous-Systems maintainers
+  contact: https://github.com/AIT-Assistive-Autonomous-Systems/devcontainer_features/issues
+  repository: https://github.com/AIT-Assistive-Autonomous-Systems/devcontainer_features
+  ociReference: ghcr.io/ait-assistive-autonomous-systems/devcontainer_features
 - name: Hauke's Features for Development Containers
   maintainer: Hauke D
   contact: https://github.com/haukex/devcontainer-features/issues
