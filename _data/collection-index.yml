@@ -1165,6 +1165,11 @@
   repository: https://github.com/schnellerhase/devcontainer-fenics
   ociReference: ghcr.io/schnellerhase/devcontainer-fenics/fenics
   ociReference: ghcr.io/ryanlua/templates/roblox
+- name: Dev container features for Azure linux images
+  maintainer: Victor Maznev
+  contact: https://github.com/bullmastiffo/devcontainers-features/issues
+  repository: https://github.com/bullmastiffo/devcontainers-features
+  ociReference: ghcr.io/bullmastiffo/devcontainers-features
 - name: Matt Mazzola Dev Containers
   maintainer: mattmazzola
   contact: https://github.com/mattmazzola/devcontainers/issues
