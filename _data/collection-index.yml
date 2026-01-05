@@ -1280,6 +1280,11 @@
   contact: https://github.com/pairspaces/devcontainers/issues
   repository: https://github.com/pairspaces/devcontainers
   ociReference: ghcr.io/pairspaces/devcontainers/pairspaces
+- name: Databricks CLI Feature
+  maintainer: KingBain
+  contact: https://github.com/KingBain/devcontainer-features-databricks/issues
+  repository: https://github.com/KingBain/devcontainer-features-databricks
+  ociReference: ghcr.io/kingbain/devcontainer-features-databricks
 - name: Couper DevContainer Feature
   maintainer: Marcel Ludwig (malud)
   contact: https://github.com/coupergateway/features/issues
