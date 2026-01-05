@@ -1280,6 +1280,11 @@
   contact: https://github.com/pairspaces/devcontainers/issues
   repository: https://github.com/pairspaces/devcontainers
   ociReference: ghcr.io/pairspaces/devcontainers/pairspaces
+- name: Dev Container Features by Niklas
+  maintainer: NLstn
+  contact: https://github.com/NLstn/devcontainer-features/issues
+  repository: https://github.com/NLstn/devcontainer-features
+  ociReference: ghcr.io/nlstn/devcontainer-features
 - name: Xingxin HE's Devcontainer Features
   maintainer: XingxinHE
   contact: https://github.com/XingxinHE/devcontainer-features/issues
