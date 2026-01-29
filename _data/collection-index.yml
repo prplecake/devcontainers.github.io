@@ -1381,3 +1381,8 @@
   contact: https://github.com/marblejenka/devcontainer-feature/issues
   repository: https://github.com/marblejenka/devcontainer-feature
   ociReference: ghcr.io/marblejenka/devcontainer-feature
+- name: Metin's Dev Containers
+  maintainer: Metin Senturk
+  contact: https://github.com/metinsenturk/devcontainer-templates/issues
+  repository: https://github.com/metinsenturk/devcontainer-templates
+  ociReference: ghcr.io/metinsenturk/devcontainer-templates
