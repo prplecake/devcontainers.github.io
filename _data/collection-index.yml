@@ -1376,3 +1376,8 @@
   contact: https://github.com/w3cj/devcontainer-features/issues
   repository: https://github.com/w3cj/devcontainer-features
   ociReference: ghcr.io/w3cj/devcontainer-features
+- name: marble's Devcontainer Features
+  maintainer: marblejenka
+  contact: https://github.com/marblejenka/devcontainer-feature/issues
+  repository: https://github.com/marblejenka/devcontainer-feature
+  ociReference: ghcr.io/marblejenka/devcontainer-feature
