@@ -1401,3 +1401,8 @@
   contact: https://github.com/MiguelRodo/DevContainerFeatures/issues
   repository: https://github.com/MiguelRodo/DevContainerFeatures
   ociReference: ghcr.io/miguelrodo/devcontainerfeatures
+- name: Evan's Devcontainer Features
+  maintainer: esimkowitz
+  contact: https://github.com/esimkowitz/devcontainer-features/issues
+  repository: https://github.com/esimkowitz/devcontainer-features
+  ociReference: ghcr.io/esimkowitz/devcontainer-features
