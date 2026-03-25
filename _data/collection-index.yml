@@ -1441,3 +1441,8 @@
   contact: https://github.com/RiccardoBravin/devcontainer-features/issues
   repository: https://github.com/RiccardoBravin/devcontainer-features
   ociReference: ghcr.io/riccardobravin/devcontainer-features
+- name: databricks-tooling
+  maintainer: mike-fi
+  contact: https://github.com/mike-fi/devcontainer-features/issues
+  repository: https://github.com/mike-fi/devcontainer-features
+  ociReference: ghcr.io/mike-fi/devcontainer-features
