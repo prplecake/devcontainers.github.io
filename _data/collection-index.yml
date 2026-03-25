@@ -1446,3 +1446,8 @@
   contact: https://github.com/mike-fi/devcontainer-features/issues
   repository: https://github.com/mike-fi/devcontainer-features
   ociReference: ghcr.io/mike-fi/devcontainer-features
+- name: Templates by Thomas Hucke
+  maintainer: thucke
+  contact: https://github.com/thucke/devcontainer-templates/issues
+  repository: https://github.com/thucke/devcontainer-templates
+  ociReference: ghcr.io/thucke/devcontainer-templates
