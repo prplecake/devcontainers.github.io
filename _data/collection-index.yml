@@ -1466,3 +1466,8 @@
   contact: https://github.com/NicoVIII/devcontainer-features/issues
   repository: https://github.com/NicoVIII/devcontainer-features
   ociReference: ghcr.io/nicoviii/devcontainer-features
+- name: althack
+  maintainer: althack
+  contact: https://github.com/althack/devcontainers/issues
+  repository: https://github.com/althack/devcontainers
+  ociReference: ghcr.io/althack/devcontainers
