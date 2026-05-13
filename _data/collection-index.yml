@@ -1486,3 +1486,8 @@
   contact: https://github.com/mrhornsby/trunk-devcontainer-feature/issues
   repository: https://github.com/mrhornsby/trunk-devcontainer-feature
   ociReference: ghcr.io/mrhornsby/trunk-devcontainer-feature
+- name: Magento Open Source Dev Container Templates
+  maintainer: Doug Hatcher
+  contact: https://github.com/doughatcher/devcontainer-templates/issues
+  repository: https://github.com/doughatcher/devcontainer-templates
+  ociReference: ghcr.io/doughatcher/devcontainer-templates
